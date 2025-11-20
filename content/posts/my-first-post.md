@@ -23,6 +23,9 @@ this is called abstraction, and thus all its general ideas are made.
 
 > [From](https://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1)
 
+In series of post i try to set out my thoughts
+about some it and programming themes
+
 ---
 
 ```mermaid
