@@ -1,11 +1,13 @@
 +++
-title = "My First Post"
+title = "First Post"
 date = "2025-11-20"
 description = "-"
 showFullContent = false
 readingTime = true
 hideComments = true
 +++
+
+# First Post
 
 The acts of the mind, wherein it exerts its power over simple ideas,
 are chiefly these three:
