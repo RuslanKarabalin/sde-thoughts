@@ -3,3 +3,6 @@ title = 'SDE Thoghts'
 theme = "terminal"
 sectionPagesMenu = 'main'
 tableOfContents = true
+
+[params.logo]
+    logoText = "SDE Thoughts"
