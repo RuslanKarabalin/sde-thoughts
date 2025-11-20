@@ -8,7 +8,7 @@ hideComments = true
 toc = true
 +++
 
-## Prephrase
+## Preface
 
 The acts of the mind, wherein it exerts its power over simple ideas,
 are chiefly these three:
@@ -29,7 +29,7 @@ this is called abstraction, and thus all its general ideas are made.
 In series of posts I try to set out my thoughts
 about some IT and programming themes.
 
-Let's start with figure out what modern IT based on.
+Let's start by figuring out what modern IT based on.
 I think we can divide "programming" by 4 "sorts":
 "Hardware Level", "Low Level", "System Programming"
 and "High Level"
@@ -71,7 +71,7 @@ flowchart LR
     SystemProgramming --> HighLevel
 ```
 
-In my opinion to be a real good SDE
+In my opinion to be a really good SDE
 
 ## Legend
 
