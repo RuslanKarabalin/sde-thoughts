@@ -1,0 +1,4 @@
+languageCode = 'en-us'
+title = 'SDE Thoghts'
+theme = "terminal"
+sectionPagesMenu = 'main'
