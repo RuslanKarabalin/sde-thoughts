@@ -5,9 +5,10 @@ description = "-"
 showFullContent = false
 readingTime = true
 hideComments = true
+toc = true
 +++
 
-# First Post
+## Prephrase
 
 The acts of the mind, wherein it exerts its power over simple ideas,
 are chiefly these three:
@@ -23,15 +24,20 @@ this is called abstraction, and thus all its general ideas are made.
 
 > [From](https://sarabander.github.io/sicp/html/Chapter-1.xhtml#Chapter-1)
 
-In series of post i try to set out my thoughts
-about some it and programming themes
+## Four Levels
 
----
+In series of posts I try to set out my thoughts
+about some IT and programming themes.
+
+Let's start with figure out what modern IT based on.
+I think we can divide "programming" by 4 "sorts":
+"Hardware Level", "Low Level", "System Programming"
+and "High Level"
 
 ```mermaid
 flowchart LR
     A[CPU, RAM, GPU]
-    B[Hardware]
+    B[Machine code]
     C[Linux]
     D[ASM]
     E[C]
@@ -65,4 +71,10 @@ flowchart LR
     SystemProgramming --> HighLevel
 ```
 
----
+In my opinion to be a real good SDE
+
+## Legend
+
+1. IT - Information technology
+2. SDE - Software Developer Engineer
+3. ASM - Assembly language
