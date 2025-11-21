@@ -1,7 +1,7 @@
 +++
 title = "First Post"
 date = "2025-11-20"
-description = "-"
+description = "My thoughts about 'IT' and 'Programming'"
 showFullContent = false
 readingTime = true
 hideComments = true
