@@ -2,7 +2,7 @@
 
 ## Cheat Sheet
 
-**Create new "content":***
+**Create new "content":**
 
 ```bash
 hugo new content content/<dir>/<name>.md
