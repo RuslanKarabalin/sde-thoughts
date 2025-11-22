@@ -5,4 +5,4 @@ menus = "main"
 +++
 
 Initially this blog was intended as
-thoughts of me in role of SDE
+thoughts of me in role of Software Development Engineer

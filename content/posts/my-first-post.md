@@ -12,7 +12,7 @@ toc = true
 
 ```plaintext
 IT - Information technology
-SDE - Software Developer Engineer
+SDE - Software Development Engineer
 ASM - Assembly language
 ```
 
