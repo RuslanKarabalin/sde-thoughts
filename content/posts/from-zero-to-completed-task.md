@@ -7,3 +7,28 @@ readingTime = true
 hideComments = true
 toc = true
 +++
+
+## Rough Plan
+
+- Explain how 'Buisness Task' goes from
+    buisness formulation to written and
+    deployed code and smth
+- Four stages: Analysis, Development,
+    Testing and Deploy
+- Role of SDE in meetings like
+    'Grooming', '3Amigo' and etc
+- What are we doing?
+- Why are we doing this?
+- What relusts do we expect?
+- Task decompozition
+- MR/PR per task
+- How to exactly write code?
+- Tests (Martin Fowler Testing View)
+- Logs
+- Observability
+- Review
+- SDE, QA and Auto tests
+- Huge MR to PROD :]
+- 'What the next step of operation'
+- Reflection
+- Post Task Note
