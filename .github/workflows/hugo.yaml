@@ -16,6 +16,7 @@ defaults:
     shell: bash
 jobs:
   build:
+    if: startsWith(github.event.head_commit.message, 'deploy:')
     runs-on: ubuntu-latest
     env:
       DART_SASS_VERSION: 1.93.2
@@ -91,6 +92,7 @@ jobs:
         with:
           path: ./public
   deploy:
+    if: startsWith(github.event.head_commit.message, 'deploy:')
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
