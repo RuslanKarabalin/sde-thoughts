@@ -10,8 +10,8 @@ toc = true
 
 ## Rough Plan
 
-- Explain how 'Buisness Task' goes from
-    buisness formulation to written and
+- Explain how 'Business Task' goes from
+    business formulation to written and
     deployed code and smth
 - Four stages: Analysis, Development,
     Testing and Deploy
@@ -19,8 +19,8 @@ toc = true
     'Grooming', '3Amigo' and etc
 - What are we doing?
 - Why are we doing this?
-- What relusts do we expect?
-- Task decompozition
+- What results do we expect?
+- Task decomposition
 - MR/PR per task
 - How to exactly write code?
 - Tests (Martin Fowler Testing View)

@@ -8,6 +8,14 @@ hideComments = true
 toc = true
 +++
 
+## Legend
+
+```plaintext
+IT - Information technology
+SDE - Software Developer Engineer
+ASM - Assembly language
+```
+
 ## Preface
 
 The acts of the mind, wherein it exerts its power over simple ideas,
@@ -73,8 +81,7 @@ flowchart LR
 
 In my opinion to be a really good SDE
 
-## Legend
+## Links
 
-1. IT - Information technology
-2. SDE - Software Developer Engineer
-3. ASM - Assembly language
+- <https://teachyourselfcs.com>
+- <https://sarabander.github.io/sicp>
