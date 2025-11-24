@@ -16,6 +16,7 @@ toc = true
 - Agile, Scrum, Kanban
 - Lead time
 - Theory of constraints
+- Contracting
 - Five stages: Analysis, Development, Testing, Deploy and Observation
 - Analysis
     - What are we doing?
