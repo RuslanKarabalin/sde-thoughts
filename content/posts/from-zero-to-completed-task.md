@@ -13,6 +13,9 @@ toc = true
 - Explain how "Business Task" goes from business formulation
     to written and deployed code and smth
 - Systems Development Life Cycle
+- Agile, Scrum, Kanban
+- Lead time
+- Theory of constraints
 - Five stages: Analysis, Development, Testing, Deploy and Observation
 - Analysis
     - What are we doing?
