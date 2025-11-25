@@ -17,6 +17,8 @@ toc = true
 - Lead time
 - Theory of constraints
 - Contracting
+- ADR
+- RFC
 - Five stages: Analysis, Development, Testing, Deploy and Observation
 - Analysis
     - What are we doing?
@@ -26,6 +28,7 @@ toc = true
     - Acceptance criteria
     - Test-cases
     - Task decomposition
+    - Dependencies between tasks 
     - SDE Check list
 - Development
     - MR/PR per task
@@ -35,13 +38,16 @@ toc = true
         - Ask 5 questions "why?"
         - Find 3 arguments against
         - Tests (Martin Fowler Testing View)
-        - HTTP-Clients
-        - Message Queues
-        - Event Streaming
-        - Other integrations
+        - Validation
+        - Integrations
+            - HTTP-Clients
+            - Message Queues
+            - Event Streaming Platfroms
+            - File Storages
         - Logs
         - Observability
         - Telemetry
+        - Alerts
     - Code Review
 - Testing
     - SDE, QA and Auto tests
