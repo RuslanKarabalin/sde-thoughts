@@ -56,3 +56,7 @@ toc = true
 - "What the next step of operation"
     - Reflection
     - Post Task Note
+
+## Links
+
+- <https://t.me/sys_sa/229>
